@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.container {
+  /* direction: end; */
+  /* justify-content: center; */
+  /* align-content: center; */
+  /* align-items: center; */
+  background-color: #fff1eb;
+  color: black;
+  width: 100vh;
+  height: 100vh;
+}
